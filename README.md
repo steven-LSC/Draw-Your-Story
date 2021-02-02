@@ -2,8 +2,9 @@
 
 Draw Your Story is an iOS APP, which you can draw or show your story, and save you story in the cloud.
 
-### ScreenShot
+### Screenshot
 
+![image](https://github.com/steven-LSC/Draw-Your-Story/blob/main/draw-your-story.gif)
 
 ### Features
 
