@@ -1,5 +1,7 @@
 # Draw-Your-Story
 
+<img src="https://github.com/steven-LSC/Draw-Your-Story/blob/main/Logo.png" width="300" height="300">
+
 Draw Your Story is an iOS App.
 
 You can draw or show some story pages and save your story into the cloud.
